@@ -1,3 +1,3 @@
 # SnakeCPP
 A c++ snake game made using NVitanovic's tutorial <br>
-You can find the tutorial [here](https://www.youtube.com/watch?v=PSoLD9mVXTA)
+You can find the tutorial [here](https://www.youtube.com/watch?v=E_-lMZDi7Uw)
